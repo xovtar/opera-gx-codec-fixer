@@ -25,7 +25,7 @@ The current version expects Opera GX's codec library at:
 
 1. Download `Opera-GX-Codec-Fixer-Installer.run` from the GitHub Releases section.
 2. Right-click the downloaded file, open Properties, and enable **Executable as Program**.
-3. Double-click the installer and choose to run it.
+3. Right-click the installer and select **Run as a Program** to launch the installation.
 4. The installer sets up the repair script and desktop shortcut.
 5. Launch **Opera GX Codec Fix** from the desktop whenever you need to repair video playback.
 
